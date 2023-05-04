@@ -134,7 +134,7 @@ Table of Roles™
 | Liza Hashani     | Project Manager  / Frontend dev (main), Backend dev(sub), QA lead   |
 | Tanvir Sami | Backend dev (main), Frontend dev (sub), QA tester   |
 | Albi Xhuveli | Backend dev (main), Frontend dev (sub), QA tester  |
-| David (Dee) Slawotsky     | Frontend dev (main), Database dev (main), QA tester |
+
 
 
 
@@ -154,7 +154,7 @@ Use Case Model
 
 # Use Case Model
 
-**Author**: Team 5: Liza Hashani, Tanvir Sami, Albi Xhuveli, David Slawotsky
+**Author**: Team 5: Liza Hashani, Tanvir Sami, Albi Xhuveli
 
 ## 1 Use Case Diagram
 
@@ -274,7 +274,7 @@ Design Document
 
 # Design Document
 
-**Author**: Team 5: Liza Hashani, Tanvir Sami, Albi Xhuveli, David Slawotsky
+**Author**: Team 5: Liza Hashani, Tanvir Sami, Albi Xhuveli
 
 ## 1 Design Considerations
 
@@ -371,7 +371,7 @@ Test Plan
 
 # Test Plan
 
-**Author**: Team 5: Liza Hashani, Tanvir Sami, Albi Xhuveli, David Slawotsky
+**Author**: Team 5: Liza Hashani, Tanvir Sami, Albi Xhuveli
 
 ## 1 Testing Strategy
 
