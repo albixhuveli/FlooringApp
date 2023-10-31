@@ -125,8 +125,7 @@ As a team we will use the phases of the software development life cycle in the p
 
 ## 3 Team
 
-Team members: Liza Hashani, Tanvir Sami, Albi Xhuveli, David Slawotsky
-
+Team members: Liza Hashani, Tanvir Sami, Albi Xhuveli
 Table of Roles™
 
 | Team Member       | Role        |
